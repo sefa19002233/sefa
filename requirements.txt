@@ -1,0 +1,8 @@
+Telethon==1.36.0
+urllib3
+aiohttp
+aiofiles
+requests
+fake-useragent
+Faker
+user-agent
